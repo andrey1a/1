@@ -19,7 +19,7 @@ public class Main {
                 case "exit":
                     x = "Exit";
                     break;
-                default: System.out.println("Неизвестная команда");
+                default: System.out.println("Неизвестsая команда");
             }
         }
     }
